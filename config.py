@@ -1,0 +1,11 @@
+
+BOT_TOKEN = "7871114248:AAHpOr0l7R53OPjhYmvrXFa4xuUdnlsE7rQ"
+
+JOKE_API = "RRy1KkwxuJstmfU8DSdsFNnNEXCkHqKD"
+
+GIPHY_API_KEY = "RRy1KkwxuJstmfU8DSdsFNnNEXCkHqKD"
+
+
+
+
+
